@@ -1,33 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.98f5572e.css",
-    "main.js": "/static/js/main.f1a079b2.js",
+    "main.css": "/static/css/main.ada39e59.css",
+    "main.js": "/static/js/main.c7cd43ad.js",
     "static/js/787.0008ae39.chunk.js": "/static/js/787.0008ae39.chunk.js",
-    "static/media/bicycle.png": "/static/media/bicycle.d41563bfd7e40245ec73.png",
+    "static/media/bicycle.webm": "/static/media/bicycle.121ddf397d054e93f7c8.webm",
+    "static/media/doodle.webm": "/static/media/doodle.f93e395b8d423b1ec31a.webm",
+    "static/media/catching-the-butteryfly.webm": "/static/media/catching-the-butteryfly.b7ab72f8bd268a2add0e.webm",
     "static/media/expansion_contract.jpg": "/static/media/expansion_contract.019550a753ebac91f477.jpg",
     "static/media/lds-in-60s.jpg": "/static/media/lds-in-60s.8f3c3cf990c8b9e5dbdb.jpg",
     "static/media/invasion.jpg": "/static/media/invasion.4f888aaa1ae0d5fb7df6.jpg",
     "static/media/pizza-forest.jpg": "/static/media/pizza-forest.acdb4d44e9a11962e32c.jpg",
     "static/media/snoozing.jpg": "/static/media/snoozing.1248d7fc685e95e948ad.jpg",
-    "static/media/doodle.jpg": "/static/media/doodle.42db8bab6a9abfe07e66.jpg",
     "static/media/master-gardener.jpg": "/static/media/master-gardener.e18e4e251592d45dfe91.jpg",
     "static/media/doodle-2.jpg": "/static/media/doodle-2.63c6d5fb65638ffbf3bb.jpg",
     "static/media/cove-molding.jpg": "/static/media/cove-molding.5dec7b35fe15de6b6854.jpg",
     "static/media/coal-powered.jpg": "/static/media/coal-powered.15f3838f6a27cf1c7547.jpg",
     "static/media/little-house.jpg": "/static/media/little-house.2f9cf0bb70d6b099d5f4.jpg",
-    "static/media/catching-the-butteryfly.jpg": "/static/media/catching-the-butteryfly.11aae9950d543771c389.jpg",
     "static/media/egg-drop.jpg": "/static/media/egg-drop.139a60217be557e8c2f9.jpg",
     "static/media/dang-doodle.jpg": "/static/media/dang-doodle.61b895cb7225407f9ec6.jpg",
     "static/media/skull.jpg": "/static/media/skull.553f4fb3687b00416b91.jpg",
     "static/media/background.png": "/static/media/background.78f5b3a158f2925f3908.png",
     "static/media/man-pours-some-water.png": "/static/media/man-pours-some-water.c7fd4f768827949f55c5.png",
     "index.html": "/index.html",
-    "main.98f5572e.css.map": "/static/css/main.98f5572e.css.map",
-    "main.f1a079b2.js.map": "/static/js/main.f1a079b2.js.map",
+    "main.ada39e59.css.map": "/static/css/main.ada39e59.css.map",
+    "main.c7cd43ad.js.map": "/static/js/main.c7cd43ad.js.map",
     "787.0008ae39.chunk.js.map": "/static/js/787.0008ae39.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98f5572e.css",
-    "static/js/main.f1a079b2.js"
+    "static/css/main.ada39e59.css",
+    "static/js/main.c7cd43ad.js"
   ]
 }
