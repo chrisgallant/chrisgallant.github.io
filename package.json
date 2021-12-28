@@ -1,6 +1,6 @@
 {
   "name": "chrisgallant.github.io",
-  "homepage": "https://chrisgallant.com",
+  "homepage": "https://www.chrisgallant.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -39,6 +39,8 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^3.2.3"
+    "gh-pages": "^3.2.3",
+    "prettier": "^2.5.1",
+    "sass": "^1.45.1"
   }
 }

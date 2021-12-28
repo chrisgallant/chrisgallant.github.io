@@ -2,42 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ffdfdfc-9ec4-4f80-b0c9-315df814788c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/CNAME" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/art/bicycle.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/art/bicycle.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art/catching-the-butteryfly.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/art/catching-the-butteryfly.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art/coal-powered.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/art/coal-powered.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art/cove-molding.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/art/cove-molding.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art/dang-doodle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/art/dang-doodle.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art/doodle-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/art/doodle-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art/doodle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/art/doodle.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art/egg-drop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/art/egg-drop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art/expansion_contract.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/art/expansion_contract.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art/invasion.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/art/invasion.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art/lds-in-60s.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/art/lds-in-60s.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art/little-house.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/art/little-house.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art/man-pours-some-water.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/art/man-pours-some-water.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art/master-gardener.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/art/master-gardener.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art/pizza-forest.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/art/pizza-forest.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art/skull.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/art/skull.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/art/snoozing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/art/snoozing.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.e6c13ad2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.e6c13ad2.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/787.d6982324.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/787.d6982324.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.385c3d38.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.385c3d38.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.385c3d38.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/art/doodle-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/art/video/bicycle.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/art/video/catching-the-butteryfly.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/art/video/doodle.webm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,14 +31,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/art/video" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="C:\Users\chris\Documents\code\chrisgallant.github.io\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\chris\Documents\code\chrisgallant.github.io\src" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\chris\Documents\code\chrisgallant.github.io\src\art\video" />
+      <recent name="C:\Users\chris\Documents\code\chrisgallant.github.io\src\art" />
+      <recent name="C:\Users\chris\Documents\code\chrisgallant.github.io\src\images" />
       <recent name="C:\Users\chris\Documents\code\chrisgallant.github.io\public" />
       <recent name="C:\Users\chris\Documents\code\chrisgallant.github.io" />
     </key>
@@ -78,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1640635354505</updated>
-      <workItem from="1640635355662" duration="3052000" />
+      <workItem from="1640635355662" duration="9721000" />
     </task>
     <servers />
   </component>
@@ -90,5 +70,17 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1044" y="503" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/2560.103.1920.1040/-1920.104.1920.1040@0.0.2560.1400" timestamp="1640637897518" />
+    <state x="914" y="478" key="EditFileWatcherDialog" timestamp="1640711693012">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="914" y="478" key="EditFileWatcherDialog/0.0.2560.1400/2560.103.1920.1040/-1920.104.1920.1040@0.0.2560.1400" timestamp="1640711693012" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1640712037896">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400/2560.103.1920.1040/-1920.104.1920.1040@0.0.2560.1400" timestamp="1640712037896" />
+    <state x="781" y="342" key="SettingsEditor" timestamp="1640711549815">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="342" key="SettingsEditor/0.0.2560.1400/2560.103.1920.1040/-1920.104.1920.1040@0.0.2560.1400" timestamp="1640711549815" />
   </component>
 </project>
