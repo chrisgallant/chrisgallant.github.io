@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.ada39e59.css",
+    "main.css": "/static/css/main.35b9539b.css",
     "main.js": "/static/js/main.7a8fc0cd.js",
     "static/js/787.0008ae39.chunk.js": "/static/js/787.0008ae39.chunk.js",
     "static/media/doodle.webm": "/static/media/doodle.6ec1557ba57cd863984d.webm",
@@ -20,12 +20,12 @@
     "static/media/little-house.webm": "/static/media/little-house.e9a562669e38e51a8ca5.webm",
     "static/media/background.png": "/static/media/background.78f5b3a158f2925f3908.png",
     "index.html": "/index.html",
-    "main.ada39e59.css.map": "/static/css/main.ada39e59.css.map",
+    "main.35b9539b.css.map": "/static/css/main.35b9539b.css.map",
     "main.7a8fc0cd.js.map": "/static/js/main.7a8fc0cd.js.map",
     "787.0008ae39.chunk.js.map": "/static/js/787.0008ae39.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ada39e59.css",
+    "static/css/main.35b9539b.css",
     "static/js/main.7a8fc0cd.js"
   ]
 }
