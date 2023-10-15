@@ -1,21 +1,20 @@
-body {
-    background-image: url("images/background.png");
-    background-repeat: repeat;
-    display: flex;
-    justify-content: center;
-}
-.content {
-    display: flex;
-
-    flex-direction: column;
-    max-width:650px;
-
-    img, video {
-        background-color: rgba(255, 255, 255, 0.95);
-        margin: 10px 0;
-        border:1px solid white;
-        border-radius: .125rem;
-        padding:10px;
-        box-shadow: 3px 3px 13px -2px rgb(0 0 0 / 44%)
-    }
-}
+//body {
+//    background-image: url("images/background.png");
+//    background-repeat: repeat;
+//    display: flex;
+//    justify-content: center;
+//}
+//.content {
+//    display: flex;
+//    width: 100%;
+//    flex-direction: column;
+//
+//    //img, video {
+//    //    background-color: rgba(255, 255, 255, 0.95);
+//    //    //margin: 10px 0;
+//    //    //border:1px solid white;
+//    //    border-radius: .125rem;
+//    //    padding:10px;
+//    //    box-shadow: 3px 3px 13px -2px rgb(0 0 0 / 44%)
+//    //}
+//}
