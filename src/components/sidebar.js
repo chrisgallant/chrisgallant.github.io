@@ -14,7 +14,7 @@ import {
 import React from "react";
 import { BsRobot } from "react-icons/bs";
 
-const LinkItems = [{ name: "Artwork", path: '/' }, { name: "Contact", path: '/contact' }];
+const LinkItems = [{ name: "Artwork", path: '/' }, { name: "Contact", path: '/#/contact' }];
 
 const SidebarContent = ({ onClose, ...rest }) => {
   return (
