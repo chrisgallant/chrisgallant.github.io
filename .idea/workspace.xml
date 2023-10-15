@@ -2,51 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ffdfdfc-9ec4-4f80-b0c9-315df814788c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/art.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/art-page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/sidebar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/thumbnail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/thumbnails.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/art/expansion_contract.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/art/expansion-contract.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/art/thumb/bicycle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/art/thumb/catching-the-butteryfly.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/bicycle.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/art/bicycle.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/catching-the-butteryfly.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/art/catching-the-butteryfly.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/coal-powered.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/art/coal-powered.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/cove-molding.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/art/cove-molding.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/dang-doodle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/art/dang-doodle.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/doodle-1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/doodle-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/art/doodle-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/doodle.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/art/doodle.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/egg-drop.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/art/egg-drop.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/expansion_contract.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/art/expansion_contract.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/invasion.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/art/invasion.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/lds-in-60s.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/art/lds-in-60s.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/little-house.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/art/little-house.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/man-pours-some-water.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/art/man-pours-some-water.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/master-gardener.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/art/master-gardener.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/pizza-forest.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/art/pizza-forest.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/skull.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/art/skull.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/snoozing.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/art/snoozing.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/video/bicycle.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/video/catching-the-butteryfly.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/video/coal-powered.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/video/cove-molding.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/video/doodle.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/video/doodle2.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/video/egg-drop.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/video/expansion-contract.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/video/invasion.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/video/lds-in-60s.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/video/little-house.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/video/master-gardener.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/video/pizza-forest.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/video/skull.webm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/art/video/snoozing.webm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/art.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/art.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/thumbnails.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/thumbnails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +62,7 @@
       <workItem from="1640635355662" duration="10845000" />
       <workItem from="1642352687358" duration="1246000" />
       <workItem from="1642433072627" duration="10000" />
-      <workItem from="1697305866867" duration="17216000" />
+      <workItem from="1697305866867" duration="22050000" />
     </task>
     <servers />
   </component>
@@ -110,6 +75,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1697385400646">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1010" y="447" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/-1920.104.1920.1040/2560.103.1920.1040@0.0.2560.1400" timestamp="1697385400646" />
     <state x="781" y="342" key="SettingsEditor" timestamp="1697324912789">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
